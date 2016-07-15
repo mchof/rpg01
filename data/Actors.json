@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":2,"equips":[7,0,11,12,13],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":50,"name":"ひじなる","nickname":"からあげ姫","note":"","profile":"ひじの国のお姫様"},
+{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":2,"equips":[7,0,11,12,13],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":50,"name":"ナルコ","nickname":"からあげ姫","note":"","profile":"ひじの国のお姫様"},
+{"id":3,"battlerName":"torami","characterIndex":0,"characterName":"torami","classId":3,"equips":[2,15,10,9,14],"faceIndex":0,"faceName":"torami","traits":[],"initialLevel":8,"maxLevel":50,"name":"とらみ","nickname":"ごも","note":"","profile":"とらみちゃんだよっ☆"},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルキウス","nickname":"","note":"","profile":""}
+]
